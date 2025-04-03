@@ -1,4 +1,4 @@
-#Assignment 4 - Hestia // Lauri Karvonen
+# Assignment 4 - Hestia // Lauri Karvonen
 
 Generating a command line utility program, which feeds the input of one or multiple sources to LLM.
 
